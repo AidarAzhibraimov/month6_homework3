@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/img_radius.xml" value="0.104" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/item_main_recycler.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_main_recycrler.xml" value="0.17" />
       </map>
     </option>
